@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.js": "/SiberKurt/store_vkmini.git/static/js/main.8fd197c8.chunk.js",
-    "main.js.map": "/SiberKurt/store_vkmini.git/static/js/main.8fd197c8.chunk.js.map",
-    "runtime-main.js": "/SiberKurt/store_vkmini.git/static/js/runtime-main.dd4bea03.js",
-    "runtime-main.js.map": "/SiberKurt/store_vkmini.git/static/js/runtime-main.dd4bea03.js.map",
-    "static/css/2.ae2f4c93.chunk.css": "/SiberKurt/store_vkmini.git/static/css/2.ae2f4c93.chunk.css",
-    "static/js/2.c3940c22.chunk.js": "/SiberKurt/store_vkmini.git/static/js/2.c3940c22.chunk.js",
-    "static/js/2.c3940c22.chunk.js.map": "/SiberKurt/store_vkmini.git/static/js/2.c3940c22.chunk.js.map",
-    "index.html": "/SiberKurt/store_vkmini.git/index.html",
-    "precache-manifest.7164a949f5c32b633bbbd741cf34285b.js": "/SiberKurt/store_vkmini.git/precache-manifest.7164a949f5c32b633bbbd741cf34285b.js",
-    "service-worker.js": "/SiberKurt/store_vkmini.git/service-worker.js",
-    "static/css/2.ae2f4c93.chunk.css.map": "/SiberKurt/store_vkmini.git/static/css/2.ae2f4c93.chunk.css.map",
-    "static/js/2.c3940c22.chunk.js.LICENSE.txt": "/SiberKurt/store_vkmini.git/static/js/2.c3940c22.chunk.js.LICENSE.txt"
+    "main.js": "/store_vkmini/static/js/main.8fd197c8.chunk.js",
+    "main.js.map": "/store_vkmini/static/js/main.8fd197c8.chunk.js.map",
+    "runtime-main.js": "/store_vkmini/static/js/runtime-main.e47323f6.js",
+    "runtime-main.js.map": "/store_vkmini/static/js/runtime-main.e47323f6.js.map",
+    "static/css/2.ae2f4c93.chunk.css": "/store_vkmini/static/css/2.ae2f4c93.chunk.css",
+    "static/js/2.52e320d8.chunk.js": "/store_vkmini/static/js/2.52e320d8.chunk.js",
+    "static/js/2.52e320d8.chunk.js.map": "/store_vkmini/static/js/2.52e320d8.chunk.js.map",
+    "index.html": "/store_vkmini/index.html",
+    "precache-manifest.60a46936e263bb75231ef3611ec60ef6.js": "/store_vkmini/precache-manifest.60a46936e263bb75231ef3611ec60ef6.js",
+    "service-worker.js": "/store_vkmini/service-worker.js",
+    "static/css/2.ae2f4c93.chunk.css.map": "/store_vkmini/static/css/2.ae2f4c93.chunk.css.map",
+    "static/js/2.52e320d8.chunk.js.LICENSE.txt": "/store_vkmini/static/js/2.52e320d8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.dd4bea03.js",
+    "static/js/runtime-main.e47323f6.js",
     "static/css/2.ae2f4c93.chunk.css",
-    "static/js/2.c3940c22.chunk.js",
+    "static/js/2.52e320d8.chunk.js",
     "static/js/main.8fd197c8.chunk.js"
   ]
 }
