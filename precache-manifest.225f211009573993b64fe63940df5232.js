@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0608de88158e9153d8d8385d116ec382",
+    "revision": "342fee2e18771ace300c944c680ac3f1",
     "url": "/store_vkmini/index.html"
   },
   {
-    "revision": "6acbd7ce2cd53f273e42",
+    "revision": "6ac1efab157381997135",
     "url": "/store_vkmini/static/css/2.ae2f4c93.chunk.css"
   },
   {
-    "revision": "6acbd7ce2cd53f273e42",
-    "url": "/store_vkmini/static/js/2.822ebb08.chunk.js"
+    "revision": "6ac1efab157381997135",
+    "url": "/store_vkmini/static/js/2.83471e3b.chunk.js"
   },
   {
     "revision": "99bd0487192ec9e7d9ee8fbbd91ee444",
-    "url": "/store_vkmini/static/js/2.822ebb08.chunk.js.LICENSE.txt"
+    "url": "/store_vkmini/static/js/2.83471e3b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "13c0c7489213d55dee69",
-    "url": "/store_vkmini/static/js/main.2a897275.chunk.js"
+    "revision": "15085a9de0c9cdf732a2",
+    "url": "/store_vkmini/static/js/main.cb574616.chunk.js"
   },
   {
     "revision": "d709a9a04e557ca64962",
