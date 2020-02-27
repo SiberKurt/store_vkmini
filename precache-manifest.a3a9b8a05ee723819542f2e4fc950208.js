@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5d4f3a717bb78af03f080fb28adf7c68",
+    "revision": "fcc1e11825a751a4c81caa7157b91de1",
     "url": "/store_vkmini/index.html"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/store_vkmini/static/js/2.93ad409e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2540deb7d6fb3f137c94",
-    "url": "/store_vkmini/static/js/main.83df7fc9.chunk.js"
+    "revision": "d5747c55833055a40b11",
+    "url": "/store_vkmini/static/js/main.273646df.chunk.js"
   },
   {
     "revision": "d709a9a04e557ca64962",
