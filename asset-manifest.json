@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/SiberKurt/store_vkmini.git/static/js/main.8fd197c8.chunk.js",
+    "main.js.map": "/SiberKurt/store_vkmini.git/static/js/main.8fd197c8.chunk.js.map",
+    "runtime-main.js": "/SiberKurt/store_vkmini.git/static/js/runtime-main.dd4bea03.js",
+    "runtime-main.js.map": "/SiberKurt/store_vkmini.git/static/js/runtime-main.dd4bea03.js.map",
+    "static/css/2.ae2f4c93.chunk.css": "/SiberKurt/store_vkmini.git/static/css/2.ae2f4c93.chunk.css",
+    "static/js/2.c3940c22.chunk.js": "/SiberKurt/store_vkmini.git/static/js/2.c3940c22.chunk.js",
+    "static/js/2.c3940c22.chunk.js.map": "/SiberKurt/store_vkmini.git/static/js/2.c3940c22.chunk.js.map",
+    "index.html": "/SiberKurt/store_vkmini.git/index.html",
+    "precache-manifest.7164a949f5c32b633bbbd741cf34285b.js": "/SiberKurt/store_vkmini.git/precache-manifest.7164a949f5c32b633bbbd741cf34285b.js",
+    "service-worker.js": "/SiberKurt/store_vkmini.git/service-worker.js",
+    "static/css/2.ae2f4c93.chunk.css.map": "/SiberKurt/store_vkmini.git/static/css/2.ae2f4c93.chunk.css.map",
+    "static/js/2.c3940c22.chunk.js.LICENSE.txt": "/SiberKurt/store_vkmini.git/static/js/2.c3940c22.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dd4bea03.js",
+    "static/css/2.ae2f4c93.chunk.css",
+    "static/js/2.c3940c22.chunk.js",
+    "static/js/main.8fd197c8.chunk.js"
+  ]
+}
