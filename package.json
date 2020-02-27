@@ -2,7 +2,7 @@
   "name": "asc_store",
   "version": "1.0.0",
   "description": "",
-  "homepage": "https://github.com/SiberKurt/store_vkmini.git",
+  "homepage": "https://SiberKurt.github.io/store_vkmini",
   "main": "index.js",
   "scripts": {
     "start": "cross-env PORT=10888 react-scripts start",
